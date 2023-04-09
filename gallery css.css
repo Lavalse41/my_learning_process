@@ -1,0 +1,84 @@
+body{
+  background-color: OldLace;
+  text-align: center;
+}
+.hme{
+  font-style:italic;
+  color: Sienna;
+  font-size: 40px;
+}
+.one {
+  border: solid 15px MidnightBlue;
+  padding: 20px;
+  background-color: white;
+  margin: 0 20px 20px 0;
+  text-align: center;
+}
+.two{
+  border:solid 15px #c3b2a1;
+  margin: 0 20px 0 0; 
+}
+.three{
+  border: solid 15px RosyBrown;
+  padding:20px;
+  background-color: white;
+  margin: 100px 25px 80px 0; 
+}
+.four{
+  border: solid 15px #76332f;
+  border-radius: 40px 30px ;
+  padding: 0px;
+  background-color: white;
+  margin: 0 0 30px 0;
+}
+.five{
+  border: solid 15px #76332f;
+  padding: 20px;
+  background-color: white;
+  margin: 50px 50px 50px 30px;
+}
+.six{ 
+  border: solid 15px RosyBrown;
+  border-radius: 80px 80px 80px 80px ;
+  padding: 0px;
+  background-color: white;
+  margin: 15px 30px 100px 0;
+}
+.seven{
+  border: solid 15px RosyBrown;
+  padding: 10px ;
+  background-color: white;
+  margin: 10px 0 150px 0; 
+  }
+.eight {
+  border: solid 15px Peru;
+  border-radius: 80px 10px;
+  padding: 20px;
+  background-color: white;
+  margin : 0px 30px 0px 30px;
+}
+.nin {
+  border: solid 15px #76332f;
+  padding: 0px;
+  background-color: white;
+  margin : 0 0px 190px 0;
+}
+.ten {
+  border: solid 15px Peru;
+  padding: 0px;
+  background-color: white;
+  margin : 20px 30px 180px 30px;
+}
+.ele{  
+  border: solid 15px #76332f;
+  padding: 10px;
+  background-color: white;}
+  margin : 0px 0px 0px 0px;
+
+.b1 {
+  background-color: OldLace;
+  border: solid;
+  text-align:left;
+  font-style:italic;
+  
+}
